@@ -2,7 +2,7 @@ import { Toaster } from "react-hot-toast";
 import Nav from "../../components/admin/Nav/Nav";
 
 export const metadata = {
-  title: "Brokersite || Admin",
+  title: "Brokersite || Admin",      
   description: "Admin Panel",
 };
 
